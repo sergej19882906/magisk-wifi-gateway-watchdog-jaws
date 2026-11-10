@@ -1,0 +1,6 @@
+id=wifi_gateway_watchdog_jaws
+name=Wi-Fi Gateway Watchdog for Xiaomi Jaws
+version=1.0.0
+versionCode=10000
+author=sergej19882906
+description=Recovers the Wi-Fi subsystem after confirmed local gateway loss.
